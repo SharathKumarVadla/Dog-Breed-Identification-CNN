@@ -10,6 +10,7 @@ st.text("Upload a Dog Image to know the name of Breed")
 
 #from Image_classification import teachable_machine_classification
 def teachable_machine_classification(img, weights_file, labels_file):
+    st.text("model has started loading")
     model = load_model(weights_file)
     st.text("model has been loaded")
     with open(labels_file,'rb') as file:

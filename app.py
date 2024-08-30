@@ -13,7 +13,7 @@ st.text("Upload a Dog Image to know the name of Breed")
 def teachable_machine_classification(img, weights_file, labels_file):
     st.text("model has started loading")
     K.clear_session()
-    model = load_model(weights_file)
+    model = load_model(weights_file,compile=False)
     st.text("model has been loaded")
     with open(labels_file,'rb') as file:
         encoder = pickle.load(file)

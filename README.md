@@ -8,7 +8,7 @@
 - Therefore, there are attempts to extend studies from human to animal recognition. In particular, dogs are one of the most common animals.
 - Since there are more than 180 dog breeds, dog breed recognition can be an essential task in order to provide proper training and health treatment.
 - Previously, dog breed recognition is done by human experts. However, some dog breeds might be challenging to evaluate due to the lack of experts and the difficulty of breeds' patterns themselves. It also takes time for each evaluation.
-- The main objective of this case study is to create a classifier capable of determining a dog’s breed from an image.
+- The main objective of this case study is to create a classifier using CNN capable of determining a dog’s breed from an image.
 
 **Dataset:**
 

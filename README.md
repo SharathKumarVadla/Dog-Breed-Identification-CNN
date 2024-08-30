@@ -25,7 +25,7 @@
 
 **Results:**
 
-| Model | Train Loss | Cross-Validation Loss | Train Accuracy | Test Accuracy |
+| Model | Train Loss | Cross-Validation Loss | Train Accuracy | Cross-Validation Accuracy |
 |----------|----------|----------|----------|----------|
 | InceptionV3    | 0.2517   | 0.2554   | 0.9229   | 0.9188   |
 | InceptionV3+ResNet152    | 0.2019 | 0.2531 | 0.9397  | 0.9226   |

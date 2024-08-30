@@ -22,3 +22,14 @@
 **Classification Metric:**
 - For each image in the test data, we must predict a probability for each of the different breeds as part of the case study.
 - Multi class log loss between the predicted probability and the observed target has been used as the metric.
+
+**Results:**
+
+| Model | Train Loss | Cross-Validation Loss | Train Accuracy | Test Accuracy |
+|----------|----------|----------|----------|----------|
+| InceptionV3    | 0.2517   | 0.2554   | 0.9229   | 0.9188   |
+| InceptionV3+ResNet152    | 0.2019 | 0.2531 | 0.9397  | 0.9226   |
+
+From the above results, it is evident that the stacked model (InceptionV3 + ResNet152) performed better when compared to InceptionV3 model.
+
+For more information on this case study, please read my blog - [Dog Breed Identification](https://medium.com/@SharathKumarVadla/dog-breed-identification-98cb9f7bd815)

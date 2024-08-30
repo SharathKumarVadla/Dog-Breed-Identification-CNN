@@ -11,5 +11,5 @@ if uploaded_file is not None:
     st.image(image, caption='Uploaded Dog Image.', use_column_width=True)
     st.write("")
     st.write("Classifying...")
-    predicted_label = teachable_machine_classification(image, 'Dog-Breed-Identification/Inception_resnet_stacked_weights.h5','Dog-Breed-Identification/encoder')
+    predicted_label = teachable_machine_classification(image, 'Inception_resnet_stacked_weights.h5','encoder')
     st.write('Dog Breed: '+ predicted_label)

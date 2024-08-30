@@ -5,11 +5,10 @@ import numpy as np
 import tensorflow as tf
 
 import streamlit as st
-model = load_model('Inception_resnet_stacked_weights.h5')
-st.text("model has been loaded")
 
-def teachable_machine_classification(img,labels_file):
-    #model = load_model(weights_file)
+def teachable_machine_classification(img, weights_file, labels_file):
+    model = load_model(weights_file)
+    st.text("model has been loaded")
     with open(labels_file,'rb') as file:
         encoder = pickle.load(file)
     st.text("Labels have been loaded")    

@@ -4,6 +4,7 @@ from keras.models import load_model
 import pickle
 import numpy as np
 import tensorflow as tf
+from keras import backend as K
 
 st.title("Dog Breed Identification")
 st.text("Upload a Dog Image to know the name of Breed")
@@ -11,6 +12,7 @@ st.text("Upload a Dog Image to know the name of Breed")
 #from Image_classification import teachable_machine_classification
 def teachable_machine_classification(img, weights_file, labels_file):
     st.text("model has started loading")
+    K.clear_session()
     model = load_model(weights_file)
     st.text("model has been loaded")
     with open(labels_file,'rb') as file:

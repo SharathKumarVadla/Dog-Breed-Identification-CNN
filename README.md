@@ -46,7 +46,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig - Number of participants in the competition*
 <br><br>
 
-The Kaggle score 0.2542 stands at the 415th position in the leaderboard.
+My public score 0.2542 stands at the 415th position in the leaderboard out of 1281 participants.
 
 For more information on this case study, please read my blog <br>
 *https://medium.com/@SharathKumarVadla/dog-breed-identification-98cb9f7bd815*

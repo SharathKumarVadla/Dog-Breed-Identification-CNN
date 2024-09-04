@@ -41,6 +41,10 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig 
 ![image](https://github.com/user-attachments/assets/3498e3a0-f163-4a64-a16f-9a6614db0925)
 <br><br>
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig - Leaderboard Scores*
+<br><br>
+![image](https://github.com/user-attachments/assets/1292470e-dc51-4358-8ffe-d5c598c99db5)
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig - Number of participants in the competition*
+<br><br>
 
 The Kaggle score 0.2542 stands at the 415th position in the leaderboard.
 

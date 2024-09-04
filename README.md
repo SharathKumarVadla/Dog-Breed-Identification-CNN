@@ -32,4 +32,26 @@
 
 From the above results, it is evident that the stacked model (InceptionV3 + ResNet152) performed better when compared to InceptionV3 model.
 
-For more information on this case study, please read my blog - [Dog Breed Identification](https://medium.com/@SharathKumarVadla/dog-breed-identification-98cb9f7bd815)
+**Kaggle Score:**
+
+![image](https://github.com/user-attachments/assets/c16955a8-cb4f-48f5-a246-485b016964f0)
+<br><br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig - Kaggle Score for best model*
+<br><br>
+![image](https://github.com/user-attachments/assets/3498e3a0-f163-4a64-a16f-9a6614db0925)
+<br><br>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig - Leaderboard Scores*
+
+The Kaggle score 0.2542 stands at the 415th position in the leaderboard.
+
+For more information on this case study, please read my blog <br>
+*https://medium.com/@SharathKumarVadla/dog-breed-identification-98cb9f7bd815*
+
+**References:**
+
+- *https://www.mi-research.net/en/article/doi/10.1007/s11633-020-1261-0*
+- *https://www.researchgate.net/publication/328834665_Dog_Breed_Identification_Using_Deep_Learning/link/5eddac334585152945444e60/download*
+- *http://noiselab.ucsd.edu/ECE228_2018/Reports/Report18.pdf*
+- *https://towardsdatascience.com/destroy-image-classification-by-ensemble-of-pre-trained-models-f287513b7687*
+- *https://www.kaggle.com/competitions/dog-breed-identification/data*
+

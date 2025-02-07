@@ -36,14 +36,14 @@ From the above results, it is evident that the stacked model (InceptionV3 + ResN
 
 ![image](https://github.com/user-attachments/assets/c16955a8-cb4f-48f5-a246-485b016964f0)
 <br><br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig - Kaggle Score for best model*
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig - Kaggle Score for best model*
 <br><br>
 ![image](https://github.com/user-attachments/assets/3498e3a0-f163-4a64-a16f-9a6614db0925)
 <br><br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig - Leaderboard Scores*
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig - Leaderboard Scores*
 <br><br>
 ![image](https://github.com/user-attachments/assets/1292470e-dc51-4358-8ffe-d5c598c99db5)
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig - Number of participants in the competition*
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *Fig - Number of participants in the competition*
 <br><br>
 
 My public score 0.2542 stands at the 415th position in the leaderboard out of 1281 participants.

@@ -3,6 +3,11 @@ from keras.models import load_model
 import pickle
 import numpy as np
 import tensorflow as tf
+import gdown
+import os
+
+# Google Drive URL for your model
+MODEL_URL = 'https://drive.google.com/uc?id=1B9Az0jwM13QBdAoFJOQkQL4vwPFyHjlZ'
 
 def teachable_machine_classification(img, weights_file,labels_file):
     model = load_model(weights_file)

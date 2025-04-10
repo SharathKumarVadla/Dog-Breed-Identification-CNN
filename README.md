@@ -50,7 +50,7 @@ My public score 0.2542 stands at the 415th position in the leaderboard out of 12
 
 **Deployment**
 
-The application has beeen built using streamlit and deployed in the streamlit cloud. The application can be accessed using the below link.
+The application has been built using streamlit and deployed in the streamlit cloud. The application can be accessed using the below link.
 *https://dog-breed-identification-cnn.streamlit.app/*
 
 For more information on this case study, please feel free to go through my blog <br>
